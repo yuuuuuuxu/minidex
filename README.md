@@ -181,3 +181,5 @@ Feist, J., Grieco, G., & Groce, A. (2019). Slither: A static analysis framework 
 ## License
 
 MIT. `UQ112x112` and the TWAP oracle pattern are re-implementations of ideas from Uniswap V2 (GPL-3.0 original), credited above.
+
+感谢github deepseek Claude 开源 评价是比我有用
