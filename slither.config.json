@@ -1,0 +1,5 @@
+{
+  "filter_paths": "node_modules",
+  "exclude_dependencies": true,
+  "hardhat_ignore_compile": true
+}
