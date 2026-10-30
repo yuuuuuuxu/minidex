@@ -1,0 +1,12 @@
+{
+  "network": "sepolia",
+  "chainId": 11155111,
+  "deployer": "0xEbC50726708773d35e9c6a3e43Dddc383b7CF217",
+  "deployedAt": "2026-10-01T05:46:02.108Z",
+  "contracts": {
+    "mUSD": "0xb2D240Ab2f0C4B7fdFD0C94C6A5c2be9a25E7Ba4",
+    "mETH": "0x67A668d5cbA1c16F8abDF235dC08945e481BA0DC",
+    "MiniSwapPair": "0xce74ee4eeDA92E8e3da08d2Df3E3238A043263bB",
+    "TwapOracle": "0x7d0e462B0a5B64663343E23D0B613746416a011b"
+  }
+}
